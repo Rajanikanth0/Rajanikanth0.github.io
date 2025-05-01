@@ -31,3 +31,10 @@ body {
   font-size: 21px;
   color: gray;
 }
+
+/* footer page */
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
