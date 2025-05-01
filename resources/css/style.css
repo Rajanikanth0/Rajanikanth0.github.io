@@ -3,6 +3,8 @@ body {
   text-align: center;
 }
 
+/* top landing page */
+
 .mainHead {
   font-family: verdana;
   font-size: 50px;
@@ -13,4 +15,19 @@ body {
 .link {
   color: aquamarine;
   font-size: 16px;
+}
+
+/* mid landing page */
+
+.guideHead {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.subGuide {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
 }
